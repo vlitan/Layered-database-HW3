@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" automaticImage="JPEG" always-add-relationships="true" 
+  generalizations="true" realizations="true" associations="true" dependencies="true" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="BLL.BLO" project="PT3DB" file="/PT3DB/src/BLL/BLO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="213" width="199" x="973" y="671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="BLL.ProductBLO" project="PT3DB" file="/PT3DB/src/BLL/ProductBLO.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="167" x="1060" y="1574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="BLL.BLOManager" project="PT3DB" file="/PT3DB/src/BLL/BLOManager.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="164" x="778" y="201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="BLL.CustomerBLO" project="PT3DB" file="/PT3DB/src/BLL/CustomerBLO.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="169" x="712" y="924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="BLL.OrderfBLO" project="PT3DB" file="/PT3DB/src/BLL/OrderfBLO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="124" width="233" x="973" y="924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="BLL.OrderfHasProductBLO" project="PT3DB" 
+    file="/PT3DB/src/BLL/OrderfHasProductBLO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="216" x="712" y="1574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="dal.ConnectionFactory" project="PT3DB" 
+    file="/PT3DB/src/dal/ConnectionFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="204" x="1211" y="2110"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="dal.DAO" project="PT3DB" file="/PT3DB/src/dal/DAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="268" width="312" x="1041" y="1792"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="models.Product" project="PT3DB" file="/PT3DB/src/models/Product.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="167" x="448" y="2110"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="models.Orderf" project="PT3DB" file="/PT3DB/src/models/Orderf.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="170" x="1001" y="2110"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="models.Customer" project="PT3DB" file="/PT3DB/src/models/Customer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="142" x="509" y="1574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="models.OrderfHasProduct" project="PT3DB" 
+    file="/PT3DB/src/models/OrderfHasProduct.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="187" x="672" y="1792"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="presentation.Main" project="PT3DB" file="/PT3DB/src/presentation/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="169" x="778" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="presentation.EditEntryWindow" project="PT3DB" 
+    file="/PT3DB/src/presentation/EditEntryWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="430" width="274" x="62" y="201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="presentation.GUI" project="PT3DB" file="/PT3DB/src/presentation/GUI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="610" width="342" x="246" y="924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="16" language="java" name="presentation.Action" project="PT3DB" 
+    file="/PT3DB/src/presentation/Action.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="144" x="62" y="924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <dependency id="17">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="18">    
+    <bendpoint x="31" y="201"/>    
+    <bendpoint x="31" y="671"/>    
+    <bendpoint x="31" y="924"/>    
+    <bendpoint x="31" y="1574"/>    
+    <bendpoint x="31" y="1792"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <generalization id="19">    
+    <bendpoint x="1246" y="924"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <dependency id="20">    
+    <bendpoint x="1010" y="1574"/>    
+    <bendpoint x="1010" y="1792"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="21">    
+    <bendpoint x="71" y="671"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="22" name="action"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="24">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="25">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="26">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="27" name="instance"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="29">    
+    <bendpoint x="989" y="1574"/>    
+    <bendpoint x="968" y="1792"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="30">    
+    <bendpoint x="681" y="671"/>    
+    <bendpoint x="681" y="924"/>    
+    <bendpoint x="681" y="1574"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="31">    
+    <bendpoint x="660" y="671"/>    
+    <bendpoint x="660" y="924"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="32">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="33">    
+    <bendpoint x="618" y="201"/>    
+    <bendpoint x="618" y="671"/>    
+    <bendpoint x="639" y="924"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="34">    
+    <bendpoint x="356" y="1574"/>    
+    <bendpoint x="356" y="1792"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <dependency id="36">    
+    <bendpoint x="989" y="1792"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <generalization id="38">    
+    <bendpoint x="942" y="924"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <dependency id="39">    
+    <bendpoint x="639" y="671"/>    
+    <bendpoint x="618" y="924"/>    
+    <bendpoint x="457" y="1574"/>    
+    <bendpoint x="457" y="1792"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="40">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="41" name="instance"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="44">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="45" name="instance"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="47">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="48">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="49">    
+    <bendpoint x="1288" y="671"/>    
+    <bendpoint x="1288" y="924"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="50">    
+    <bendpoint x="1267" y="924"/>    
+    <bendpoint x="1267" y="1574"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="51">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="52" name="instance"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="54">    
+    <bendpoint x="478" y="1574"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="55">    
+    <bendpoint x="942" y="671"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="56">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="57">    
+    <bendpoint x="982" y="201"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="58">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="59" name="instance"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="61">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="62">    
+    <bendpoint x="521" y="201"/>    
+    <bendpoint x="521" y="671"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="63">    
+    <bendpoint x="1351" y="671"/>    
+    <bendpoint x="1351" y="924"/>    
+    <bendpoint x="1393" y="1574"/>    
+    <bendpoint x="1393" y="1792"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="64">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="65" name="instance"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="67">    
+    <bendpoint x="968" y="1574"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="68">    
+    <bendpoint x="1372" y="201"/>    
+    <bendpoint x="1372" y="671"/>    
+    <bendpoint x="1372" y="924"/>    
+    <bendpoint x="1372" y="1574"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="69">    
+    <bendpoint x="921" y="671"/>    
+    <bendpoint x="921" y="924"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="70">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="71">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="72">    
+    <bendpoint x="429" y="201"/>    
+    <bendpoint x="429" y="671"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="73">    
+    <bendpoint x="1309" y="201"/>    
+    <bendpoint x="1309" y="671"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <generalization id="74">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <dependency id="75">    
+    <bendpoint x="754" y="671"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="76">    
+    <bendpoint x="436" y="1574"/>    
+    <bendpoint x="478" y="1792"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="77">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="78" name="singleInstance"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="80">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="81">    
+    <bendpoint x="1414" y="201"/>    
+    <bendpoint x="1414" y="671"/>    
+    <bendpoint x="1414" y="924"/>    
+    <bendpoint x="1414" y="1574"/>    
+    <bendpoint x="1414" y="1792"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="82" name="currentOrder"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
